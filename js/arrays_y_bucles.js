@@ -29,7 +29,7 @@ console.log(arr1.indexOf(5)) // -1
 arr1.pop() // Borramos el último valor del Array
 console.log(arr1) // [1]
 
-arr1.push(5)
+arr1.push(5) // push para meter  algo al final del array
 arr1.push(10)
 arr1.push(15) // [1, 5, 10, 15]
 

@@ -3,8 +3,6 @@
 * EJERCICIOS
 *
 */
-
-
 /*
 * 1. Usando un bucle while, recorre números del 1 al 20. Cuenta cuantos números pares hay. Al finalizar el bucle, imprime por pantalla la cantidad total de pares.
 * */

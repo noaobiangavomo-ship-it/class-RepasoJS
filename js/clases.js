@@ -16,11 +16,6 @@ class Persona {
 persona1 = new Persona("Camilo", "camilo@gmail.com", 28);
 console.log(persona1.esMayorEdad())
 
-
-
-
-
-
 class Producto {
 
     constructor(nombre, precio, stock) {
@@ -48,9 +43,6 @@ let p1 = new Producto("Producto 1", 5.99, 5);
 console.log(p1.toString())
 console.log(p1.hayStock())
 console.log(p1.descuento(10))
-
-
-
 
 /*
 *
